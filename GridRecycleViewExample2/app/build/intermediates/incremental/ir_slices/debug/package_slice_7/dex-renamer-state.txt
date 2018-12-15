@@ -1,0 +1,4 @@
+#Sat Dec 15 11:29:57 CST 2018
+base.0=C\:\\Users\\service_admin\\AndroidStudioProjects\\GridRecycleViewExample2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
